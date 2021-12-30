@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Hi there!</p>
-        <p>How are you??????</p>
+        <p>How are you?</p>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          Changed on the feature branch
         </a>
       </header>
     </div>
